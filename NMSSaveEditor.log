@@ -1,0 +1,590 @@
+[DEBUG] Java Vendor: Oracle Corporation
+[DEBUG] Java Version: 1.8.0_391
+[DEBUG] Java Architecture: amd64
+[DEBUG] Operating System: Windows 10
+[DEBUG] Working Dir: F:\Dokumente\NMSSaveEditor
+[DEBUG] Look and Feel: FlatLaf Dark
+[INFO] Starting Editor...
+[INFO] Reading metadata for accountdata.hg
+[INFO] Reading metadata for save.hg
+[DEBUG] DecompressedSize: 3986866
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 1388:50
+[INFO] Reading metadata for save2.hg
+[DEBUG] DecompressedSize: 3986903
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 1388:50
+[INFO] Reading metadata for save3.hg
+[DEBUG] DecompressedSize: 4736945
+[DEBUG] Unknown1: 4135
+[INFO] Version: 393222
+[INFO] TotalPlayTime: 0:57
+[INFO] Reading metadata for save4.hg
+[DEBUG] DecompressedSize: 4277197
+[DEBUG] Unknown1: 4135
+[INFO] Version: 393222
+[INFO] TotalPlayTime: 0:25
+[INFO] Reading metadata for save5.hg
+[DEBUG] DecompressedSize: 1484505
+[DEBUG] Unknown1: 4145
+[INFO] Version: 1
+[INFO] TotalPlayTime: 0:37
+[INFO] Reading metadata for save6.hg
+[DEBUG] DecompressedSize: 1482018
+[DEBUG] Unknown1: 4145
+[INFO] Version: 1
+[INFO] TotalPlayTime: 0:35
+[DEBUG] Storage: Steam
+[DEBUG] Save Path: C:\Users\AMD Gaming\AppData\Roaming\HelloGames\NMS\st_76561198951169921
+[INFO] Reading account data...
+[DEBUG] Mem Usage: 407/7619 MB
+[DEBUG] Latest version: "1.14.4"
+[DEBUG] Current version: "1.14.4"
+[INFO] Loading saves for Slot 1...
+[INFO] Reading save file...
+[INFO] Slot: Slot 1 - NORMAL - End-game
+[INFO] Filename: save2.hg
+[WARNING] name mapping not found: JBy
+[WARNING] name mapping not found: Tx@
+[INFO] Finished.
+[INFO] Setting PlayerStateData.Multitools[3].Store.Height: 10
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.Multitools[3].Store.SpecialSlots: ARRAY[104]
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.Multitools[3].Store.ValidSlotIndices: ARRAY[100]
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.WeaponInventory: OBJECT
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest2Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest3Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Ship 0 - Storage Sacs: all slots enabled
+[INFO] Ship 0 - Organ Chamber: all slots enabled
+[INFO] Ship [1] - Cargo: all slots enabled
+[INFO] Ship [1] - Technology: all slots enabled
+[INFO] Ship [2] - Cargo: all slots enabled
+[INFO] Ship [2] - Technology: all slots enabled
+[INFO] Golden Raptor - Cargo: all slots enabled
+[INFO] Golden Raptor - Technology: all slots enabled
+[INFO] Striker - Cargo: all slots enabled
+[INFO] Ship [5] - Cargo: all slots enabled
+[INFO] Ship [5] - Technology: all slots enabled
+[INFO] Ship [6] - Cargo: all slots enabled
+[INFO] Ship [6] - Technology: all slots enabled
+[INFO] Ship [7] - Cargo: all slots enabled
+[INFO] Ship [7] - Technology: all slots enabled
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[0].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[1].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[2].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[3].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[4].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[5].Inventory_TechOnly.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[6].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory.ValidSlotIndices: ARRAY[50]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.ShipOwnership[7].Inventory_TechOnly.ValidSlotIndices: ARRAY[30]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.FreighterInventory.ValidSlotIndices: ARRAY[120]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest4Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest5Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest6Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest7Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest8Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest9Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.Chest10Inventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting PlayerStateData.CookingIngredientsInventory.ValidSlotIndices: ARRAY[60]
+[INFO] Setting UserSettingsData.UnlockedPlatformRewards: [ARRAY]
+[INFO] Setting UserSettingsData.UnlockedPlatformRewards: [ARRAY]
+[INFO] Formatting JSON...
+[INFO] Loading saves for Slot 1...
+[INFO] Finished.
+[INFO] Reading metadata for save2.hg
+[DEBUG] DecompressedSize: 3997941
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 1388:50
+[INFO] Save file reloaded from storage: save2.hg
+[INFO] Reading metadata for accountdata.hg
+[DEBUG] DecompressedSize: 44710
+[INFO] Account data reloaded from storage.
+[INFO] Setting PlayerStateData.FreighterInventory_TechOnly.Slots: ARRAY[10]
+[INFO] Setting PlayerStateData.FreighterInventory_TechOnly.Slots: ARRAY[9]
+[INFO] Setting PlayerStateData.FreighterInventory_TechOnly.Slots: ARRAY[10]
+[INFO] Setting PlayerStateData.FreighterInventory_TechOnly.Slots[9].Index: OBJECT
+[INFO] Formatting JSON...
+[INFO] Loading saves for Slot 1...
+[INFO] Finished.
+[INFO] Reading metadata for save2.hg
+[DEBUG] DecompressedSize: 3998052
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 1388:50
+[INFO] Save file reloaded from storage: save2.hg
+[INFO] Setting PlayerStateData.Inventory_TechOnly.Slots[33].Amount: 50
+[INFO] Formatting JSON...
+[INFO] Loading saves for Slot 1...
+[INFO] Finished.
